@@ -2,7 +2,7 @@
     <img src="public/swps_logo.png" width="1800" alt="SWPS University logotype">
 </div>
 
-##**A study of Poles' psychedelic and non-psychedelic mystical experiences: Lingustic analysis**
+## **A study of Poles' psychedelic and non-psychedelic mystical experiences: Lingustic analysis**
 
 This repository contains a [Jupyter Notebook](https://github.com/michal-owsiak/swps-university-research-part-II/blob/main/linguistic_analysis.ipynb) that focuses on lingustic analysis of the descriptions of psychedelic and non-psychedelic mystical experiences.
 
