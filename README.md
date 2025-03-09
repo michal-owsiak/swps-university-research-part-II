@@ -6,9 +6,11 @@
 
 This repository contains a [Jupyter Notebook](https://github.com/michal-owsiak/swps-university-research-part-II/blob/main/linguistic_analysis.ipynb) that focuses on lingustic analysis of the descriptions of psychedelic and non-psychedelic mystical experiences.
 
-## **Data collection**
+## **Dataset**
 
-The analyzed descriptions were collected through an online survey distributed from February 17, 2023, to March 29, 2023. The dataset in <code>sav</code> format is openly available courtesy of Mendeley Data: [https://data.mendeley.com/datasets/bhkb7zmb9v/1](https://data.mendeley.com/datasets/bhkb7zmb9v/1)
+The dataset in <code>sav</code> format is openly available courtesy of Mendeley Data: 
+
+Owsiak, M. (2025). Dataset - Psychedelic and Non-Psychedelic Mystical Experiences in Polish Adults. [https://doi.org/10.17632/bhkb7zmb9v.1](https://doi.org/10.17632/bhkb7zmb9v.1)
 
 ## **Tools used**
 
