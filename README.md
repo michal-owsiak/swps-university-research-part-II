@@ -8,7 +8,7 @@ This repository contains a [Jupyter Notebook](https://github.com/michal-owsiak/s
 
 ## **Data collection**
 
-The analyzed descriptions were collected through an online survey distributed from February 17, 2023, to March 29, 2023. 
+The analyzed descriptions were collected through an online survey distributed from February 17, 2023, to March 29, 2023. The dataset in <code>sav</code> format is openly available courtesy of Mendeley Data: [https://data.mendeley.com/datasets/bhkb7zmb9v/1](https://data.mendeley.com/datasets/bhkb7zmb9v/1)
 
 ## **Tools used**
 
