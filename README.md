@@ -16,8 +16,8 @@ Owsiak, M. (2025). Dataset - Psychedelic and Non-Psychedelic Mystical Experience
 
 **Languages, frameworks and environments:**
 ```
-> Jupyter Notebook
 > Python
+> Jupyter Notebook
 > Markdown
 ```
 **Libraries and packages:**
