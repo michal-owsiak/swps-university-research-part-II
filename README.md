@@ -37,7 +37,7 @@ Owsiak, M. (2025). Dataset - Psychedelic and Non-Psychedelic Mystical Experience
 **APIs and pre-trained models:**
 ```
 > DeepL REST API
-> EmoRoBERTa
+> EmoRoBERTa by Hugging Face
 ```
 
 
