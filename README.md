@@ -22,16 +22,16 @@ Owsiak, M. (2025). Dataset - Psychedelic and Non-Psychedelic Mystical Experience
 ```
 **Libraries and packages:**
 ```
-> pandas
-> NumPy
-> SciPy
-> scikit-learn
 > NLTK
-> transformers
-> statsmodels
 > wordcloud
-> PIL
+> transformers
+> scikit-learn
+> SciPy
+> NumPy
+> pandas
+> statsmodels
 > Matplotlib
+> PIL
 > IPython
 ```
 **APIs and pre-trained models:**
