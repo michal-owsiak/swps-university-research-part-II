@@ -18,7 +18,6 @@ Owsiak, M. (2025). Dataset - Psychedelic and Non-Psychedelic Mystical Experience
 ```
 > Jupyter Notebook
 > Python
-> IPython
 > Markdown
 ```
 **Libraries and packages:**
@@ -33,6 +32,7 @@ Owsiak, M. (2025). Dataset - Psychedelic and Non-Psychedelic Mystical Experience
 > wordcloud
 > PIL
 > Matplotlib
+> IPython
 ```
 **APIs and pre-trained models:**
 ```
