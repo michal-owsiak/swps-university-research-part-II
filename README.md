@@ -16,28 +16,28 @@ Owsiak, M. (2025). Dataset - Psychedelic and Non-Psychedelic Mystical Experience
 
 **Languages, frameworks and environments:**
 ```
-> Jupyter Notebook
 > Python
-> IPython
+> Jupyter Notebook
 > Markdown
 ```
 **Libraries and packages:**
 ```
-> pandas
-> NumPy
-> SciPy
-> scikit-learn
 > NLTK
-> transformers
-> statsmodels
 > wordcloud
-> PIL
+> transformers
+> scikit-learn
+> SciPy
+> NumPy
+> pandas
+> statsmodels
 > Matplotlib
+> PIL
+> IPython
 ```
 **APIs and pre-trained models:**
 ```
 > DeepL REST API
-> EmoRoBERTa
+> EmoRoBERTa by Hugging Face
 ```
 
 
