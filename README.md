@@ -10,7 +10,7 @@ This repository contains a [Jupyter Notebook](https://github.com/michal-owsiak/s
 
 The dataset in <code>sav</code> format is openly available courtesy of Mendeley Data: 
 
-Owsiak, M. (2025). Dataset - Psychedelic and Non-Psychedelic Mystical Experiences in Polish Adults. [https://doi.org/10.17632/bhkb7zmb9v.1](https://doi.org/10.17632/bhkb7zmb9v.1)
+Owsiak, M. (2025). Survey Data on Psychedelic and Non-Psychedelic Mystical-Type Experiences in Polish Adults. [https://doi.org/10.17632/bhkb7zmb9v.2](https://doi.org/10.17632/bhkb7zmb9v.2)
 
 ## **Tools used**
 
