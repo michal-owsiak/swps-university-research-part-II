@@ -4,7 +4,7 @@
 
 ## **A study of Poles' psychedelic and non-psychedelic mystical-type experiences: Lingustic analysis**
 
-This repository contains a [Jupyter Notebook](https://github.com/michal-owsiak/swps-university-research-part-II/blob/main/linguistic_analysis.ipynb) that focuses on lingustic analysis of the descriptions of psychedelic and non-psychedelic mystical experiences.
+This repository contains a [Jupyter Notebook](https://github.com/michal-owsiak/swps-university-research-part-II/blob/main/linguistic_analysis.ipynb) that focuses on lingustic analysis of the descriptions of psychedelic and non-psychedelic mystical-type altered states of consciousness.
 
 ## **Dataset**
 
